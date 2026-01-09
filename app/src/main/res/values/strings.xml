@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SQLiteDataMigrator</string>
+
+    <!-- Buttons -->
+    <string name="import_data">Import Data</string>
+    <string name="export_data">Export Data</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Bottom Sheet -->
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+
+    <!-- Empty State -->
+    <string name="no_data">No data found!\nAdd or import new data.</string>
+
+    <!-- Toast Messages -->
+    <string name="data_saved">Data saved successfully</string>
+    <string name="data_updated">Data updated successfully</string>
+    <string name="data_deleted">Data deleted successfully</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+
+    <string name="export_success">Data exported successfully</string>
+    <string name="export_error">Export failed:</string>
+
+    <string name="import_success">%1$d contacts imported successfully</string>
+    <string name="import_error">Import failed:</string>
+</resources>
